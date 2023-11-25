@@ -11,6 +11,7 @@ https://www.businesslocationcenter.de/downloadportal
 
 
 # VTK install
+https://docs.vtk.org/en/latest/build_instructions/index.html#
 
 mkdir -p ./vtk
 git clone --recursive https://gitlab.kitware.com/vtk/vtk.git ./vtk/source
